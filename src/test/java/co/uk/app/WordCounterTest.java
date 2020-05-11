@@ -1,4 +1,4 @@
-package co.uk;
+package co.uk.app;
 
 import co.uk.app.TranslateWord;
 import co.uk.app.WordCounter;
